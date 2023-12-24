@@ -1,0 +1,1 @@
+auto dependency injector for java faker 
